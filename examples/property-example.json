@@ -1,0 +1,38 @@
+{
+    "property_id": "d1e877472a4585d515b13f52ae7bfded1ccea511816d7772cb17e1ab20830819",
+    "prev_property_tx": "0x2c5e9eee1b526299770b3677ffd0d727f693ee181540e1914f5a84801dfd410967fce4c22eda621701c2b9c676ed62bc48df9c973462a8514ffb32bec202f103",
+    "owner_name": "Ilya Muromets",
+    "object_value_decrypt": {
+        "kind": "Помещение",
+        "date": "06.09.2017",
+        "number": "99/2017/27231412",
+        "cadastral_number": "77:01:0003051:1316",
+        "cadastral_date": "2012-05-22",
+        "gos_number": "",
+        "invent_number": "4",
+        "address": "129090 Москва, р-н Мещанский, пер Протопоповский, д 3, кв 4",
+        "square": 31.7,
+        "purpose": "Жилое помещение",
+        "title": "Квартира",
+        "floor": "4",
+        "living_quarters_kind": "Квартира",
+        "value": 7707324.98,
+        "owner_name": "Иванов Иван Иванович"
+    },
+    "object_value_encrypt": {
+        "object_crypt": ""
+    },
+    "owner_evidence": {
+        "doc_1": "",
+        "doc_2": ""
+    },
+    "registrator_id": "03e657ae71e51be60a45b4bd20bcf79ff52f0c037ae6da0540a0e0066132b472",
+    "datestamp": "1583023463",
+    "status": "hold", 
+    "network_id": 0,
+    "protocol_version": 0,
+    "service_id": 1,
+    "message_id": 1,
+    "signature": "ad5efdb52e48309df9aa582e67372bb3ae67828c5eaa1a7a5e387597174055d315eaa7879912d0509acf17f06a23b7f13f242017b354f682d85930fa28240402"
+}
+
