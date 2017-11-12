@@ -4,6 +4,7 @@
         "registrator_id": "03e657ae71e51be60a45b4bd20bcf79ff52f0c037ae6da0540a0e0066132b472",
         "object_value": 5,    
         "owner_name": "Ilya Muromets",
+        "prev_tx": "188f32e0d42287d4541b3ac5f4c3ab2b686e21dab6b6ae956d1139cd34fb1e08",
         "status": 0 
     },
     "network_id": 0,
